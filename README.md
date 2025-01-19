@@ -1,3 +1,6 @@
+![Image](https://github.com/user-attachments/assets/1535c9c0-77b5-419c-89ea-a6c061c9ddfa)
+
+![Image](https://github.com/user-attachments/assets/1dcae0b3-afd2-4968-ab3b-7b522c354d23)
 
 Theory on Pandas and NumPy in Python
 NumPy (Numerical Python)
