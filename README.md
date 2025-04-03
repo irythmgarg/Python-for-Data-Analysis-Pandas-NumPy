@@ -1,6 +1,9 @@
 
 ![Image](https://github.com/user-attachments/assets/1dcae0b3-afd2-4968-ab3b-7b522c354d23)
 
+[Coursera Link for Project](https://www.coursera.org/programs/data-science-elective-batch-of-2026-f30yc/projects/python-for-data-analysis-numpy?source=search)
+
+
 Theory on Pandas and NumPy in Python
 NumPy (Numerical Python)
 NumPy is a powerful library in Python for numerical computing. It provides support for working with arrays, mathematical operations, and linear algebra, which are essential for scientific computing.
